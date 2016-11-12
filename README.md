@@ -1,4 +1,4 @@
 # Keras-Workshop
 Code from Calhacks Keras workshop
 
-https://docs.google.com/a/berkeley.edu/presentation/d/1M8dyQMJstDvN8p5d4fc4cLc0iofPyo7ymSSIteSmUf8/edit?usp=sharing
+https://docs.google.com/presentation/d/1fHjULDTWNPwR6f9-Gx-5nKHcxAtq6eO9deXOezNLbmA/edit?usp=sharing
